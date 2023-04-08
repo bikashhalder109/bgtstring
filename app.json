@@ -10,8 +10,8 @@
     "repository": "https://github.com/Bikashhalder109/bgtstring",
     "success_url": "https://t.me/bgt_chat",
     "env": {
-        "API_ID": {
-            "description": "Your Api ID",
+        "ENVIRONMENT": {
+            "description": "don't change",
             "required": true,
             "value": "ANYTHING"
         },
