@@ -12,32 +12,32 @@
     "env": {
         "API_ID": {
             "description": "Your Api ID",
-            "required": True,
+            "required": true,
             "value": "ANYTHING"
         },
         "API_ID": {
             "description": "Your Api ID",
-            "required": True
+            "required": true
         },
         "API_HASH": {
             "description": "Your Api Hash",
-            "required": True
+            "required": true
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token",
-            "required": True
+            "required": true
         },
         "MONGO_DB_URI": {
             "description": "Your Mongo DB Url",
-            "required": True
+            "required": true
         },
         "OWNER_ID": {
             "description": "Telegram id of the person who will known as owner of the bot.",
-            "required": True
+            "required": true
         },
         "MUST_JOIN": {
             "description": "Username of a group or channel for which you want to set force sub.(without @)",
-            "required": True
+            "required": true
         },
     },
     "addons": [],
